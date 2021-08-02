@@ -1,4 +1,7 @@
 // ================================================= типизация
+
+const aa: [] = []
+
 const a: number = 5
 let b = 'sfjls;djkf'
 let c = true
@@ -43,6 +46,10 @@ const z: undefined = undefined
 const x: null = null
 
 // ============================================= type and interfase
+type test aa = {
+	class: string,
+	id: number
+}
 type test = {
 	a: number,
 	b: number
