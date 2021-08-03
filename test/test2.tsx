@@ -12,3 +12,5 @@ const c  = 'oishafh'
 //const b = <string> c 
 
 const b = c as string 
+
+

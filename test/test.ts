@@ -1,7 +1,7 @@
 // ================================================= типизация
 
 const aa: [] = []
-
+const aaa: string = 'helo'
 const a: number = 5
 let b = 'sfjls;djkf'
 let c = true
